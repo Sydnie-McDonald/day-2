@@ -3,8 +3,10 @@ export const people = [{
     name: "Sydnie",
     age: 20,
     bio: 'Studying to become a full stack developer,enjoys fun, vacations, and new experiences.'
-    hobbies: ['reading', 'programming', 'eating']
+    hobbies: ['Eating', 'reading', 'programming']
+
 },
+
 {
     id: 2,
     name: "Joel",
@@ -12,5 +14,11 @@ export const people = [{
     bio: 'Owner of McCandless Insurance Group. Ex-professional football player and lover of helping others',
     hobbies: ['walking dog', 'reading', 'traveling']
 
+},
+{
+    id: 3,
+    name: "KC",
+    age: 1,
+    hobbies: ['playing', 'sleeping', 'eating']
 },
 ];
